@@ -3,7 +3,7 @@ public class Practical6
  
     public static void main(String[] args) 
     {
-        int size = 5;
+        int size = 4;
         System.out.println("Pattern 1:");
         displayPattern1(size);
 
